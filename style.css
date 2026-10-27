@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f1f8f1;
+}
+
+h1 {
+    color: #2e7d32;
+}
+
+p {
+    color: #333333;
+}
+
+h2 {
+    color: #2e7d32;
+}
+.card {
+    background-color: #ffffff;
+    border: 1px solid #a5d6a7;
+}
+
+.card-title {
+    color: #2e7d32;
+}
+
+
+img {
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
